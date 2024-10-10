@@ -1,0 +1,13 @@
+SpeechRecognition
+pyttsx3
+PyAudio
+setuptools
+torch
+transformers
+numpy
+langchain
+langchain-community
+langchain-chroma
+sentence-transformers
+pypdf
+nltk
